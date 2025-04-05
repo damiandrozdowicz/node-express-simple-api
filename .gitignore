@@ -138,3 +138,6 @@ dist
 src/.DS_Store
 .DS_Store
 .idea/prettier.xml
+
+.idea/
+.idea
